@@ -1,0 +1,10 @@
+first_name = 'Felix'
+last_name = 'Kurian Paul'
+full_name = 'Felix Kurian Paul'
+country_name = 'India'
+city_name = 'Kothamangalam'
+age = 18
+year = 2008
+is_married = False
+is_true = True
+is_light_on = True
